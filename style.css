@@ -157,7 +157,18 @@ header{
     justify-content: space-evenly;
     max-width: 80%;
     margin: auto;
-    box-shadow: inset 0px 2px 15px 2px #a3a4ac;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px #a3a4ac;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.Heading h2{
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size:xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
 }
 
 .imgfluid{
